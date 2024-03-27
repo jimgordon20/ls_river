@@ -1,6 +1,6 @@
 # ls_river
 
-This project is not mine; 
+This project is not mine. 
 
 it's something I like and would love to see improved. 
 and would love to see overs help LamontCranston to make this nice. 
