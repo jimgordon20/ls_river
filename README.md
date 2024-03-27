@@ -3,7 +3,7 @@
 This project is not mine. 
 
 it's something I like and would love to see improved. 
-"And I would love to see others help LamontCranston make this nice. 
+And I would love to see others help LamontCranston make this nice. 
 
 I have only uploaded it to GitHub as archived for updates and previous versions. Please go to the link to his page.
 
